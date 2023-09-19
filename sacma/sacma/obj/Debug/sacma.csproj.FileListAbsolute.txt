@@ -1,0 +1,11 @@
+C:\Users\YPN-1255\source\repos\sacma\sacma\bin\Debug\sacma.exe.config
+C:\Users\YPN-1255\source\repos\sacma\sacma\bin\Debug\sacma.exe
+C:\Users\YPN-1255\source\repos\sacma\sacma\bin\Debug\sacma.pdb
+C:\Users\YPN-1255\source\repos\sacma\sacma\obj\Debug\sacma.csproj.AssemblyReference.cache
+C:\Users\YPN-1255\source\repos\sacma\sacma\obj\Debug\sacma.csproj.ResolveComReference.cache
+C:\Users\YPN-1255\source\repos\sacma\sacma\obj\Debug\sacma.Form1.resources
+C:\Users\YPN-1255\source\repos\sacma\sacma\obj\Debug\sacma.Properties.Resources.resources
+C:\Users\YPN-1255\source\repos\sacma\sacma\obj\Debug\sacma.csproj.GenerateResource.cache
+C:\Users\YPN-1255\source\repos\sacma\sacma\obj\Debug\sacma.csproj.CoreCompileInputs.cache
+C:\Users\YPN-1255\source\repos\sacma\sacma\obj\Debug\sacma.exe
+C:\Users\YPN-1255\source\repos\sacma\sacma\obj\Debug\sacma.pdb

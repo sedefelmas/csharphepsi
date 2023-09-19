@@ -1,0 +1,11 @@
+C:\Users\YPN-1255\source\repos\FolderFileCreater\FolderFileCreater\bin\Debug\FolderFileCreater.exe.config
+C:\Users\YPN-1255\source\repos\FolderFileCreater\FolderFileCreater\bin\Debug\FolderFileCreater.exe
+C:\Users\YPN-1255\source\repos\FolderFileCreater\FolderFileCreater\bin\Debug\FolderFileCreater.pdb
+C:\Users\YPN-1255\source\repos\FolderFileCreater\FolderFileCreater\obj\Debug\FolderFileCreater.csproj.AssemblyReference.cache
+C:\Users\YPN-1255\source\repos\FolderFileCreater\FolderFileCreater\obj\Debug\FolderFileCreater.csproj.ResolveComReference.cache
+C:\Users\YPN-1255\source\repos\FolderFileCreater\FolderFileCreater\obj\Debug\FolderFileCreater.Form1.resources
+C:\Users\YPN-1255\source\repos\FolderFileCreater\FolderFileCreater\obj\Debug\FolderFileCreater.Properties.Resources.resources
+C:\Users\YPN-1255\source\repos\FolderFileCreater\FolderFileCreater\obj\Debug\FolderFileCreater.csproj.GenerateResource.cache
+C:\Users\YPN-1255\source\repos\FolderFileCreater\FolderFileCreater\obj\Debug\FolderFileCreater.csproj.CoreCompileInputs.cache
+C:\Users\YPN-1255\source\repos\FolderFileCreater\FolderFileCreater\obj\Debug\FolderFileCreater.exe
+C:\Users\YPN-1255\source\repos\FolderFileCreater\FolderFileCreater\obj\Debug\FolderFileCreater.pdb

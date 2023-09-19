@@ -1,0 +1,17 @@
+C:\Users\YPN-1255\source\repos\ExcelProject4\ExcelProject4\bin\Debug\ExcelProject4.exe.config
+C:\Users\YPN-1255\source\repos\ExcelProject4\ExcelProject4\bin\Debug\ExcelProject4.exe
+C:\Users\YPN-1255\source\repos\ExcelProject4\ExcelProject4\bin\Debug\ExcelProject4.pdb
+C:\Users\YPN-1255\source\repos\ExcelProject4\ExcelProject4\bin\Debug\EPPlus.dll
+C:\Users\YPN-1255\source\repos\ExcelProject4\ExcelProject4\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\YPN-1255\source\repos\ExcelProject4\ExcelProject4\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\YPN-1255\source\repos\ExcelProject4\ExcelProject4\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\YPN-1255\source\repos\ExcelProject4\ExcelProject4\bin\Debug\EPPlus.xml
+C:\Users\YPN-1255\source\repos\ExcelProject4\ExcelProject4\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\YPN-1255\source\repos\ExcelProject4\ExcelProject4\obj\Debug\ExcelProject4.csproj.AssemblyReference.cache
+C:\Users\YPN-1255\source\repos\ExcelProject4\ExcelProject4\obj\Debug\ExcelProject4.Form1.resources
+C:\Users\YPN-1255\source\repos\ExcelProject4\ExcelProject4\obj\Debug\ExcelProject4.Properties.Resources.resources
+C:\Users\YPN-1255\source\repos\ExcelProject4\ExcelProject4\obj\Debug\ExcelProject4.csproj.GenerateResource.cache
+C:\Users\YPN-1255\source\repos\ExcelProject4\ExcelProject4\obj\Debug\ExcelProject4.csproj.CoreCompileInputs.cache
+C:\Users\YPN-1255\source\repos\ExcelProject4\ExcelProject4\obj\Debug\ExcelProject4.csproj.CopyComplete
+C:\Users\YPN-1255\source\repos\ExcelProject4\ExcelProject4\obj\Debug\ExcelProject4.exe
+C:\Users\YPN-1255\source\repos\ExcelProject4\ExcelProject4\obj\Debug\ExcelProject4.pdb
